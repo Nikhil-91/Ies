@@ -1,0 +1,28 @@
+Hi {fname},{lname} :
+<br>
+Welcome to IES family, Your registration Successfully.
+<br>
+<br>
+Please find the below details
+<br>
+<table border="1">
+<tr>
+<th>Email</th>
+<th>Password</th>
+<th>Role</th>
+</tr>
+<tr>
+<td> {email} </td>
+<td> {passwd} </td>
+<td> {role} </td>
+</tr>
+</table>
+<br>
+<a href='http://localhost:9090/account'>
+Click Here To Login
+</a>
+<br>
+<br>
+Thanks & Regards,
+<br>
+ABC Team
